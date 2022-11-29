@@ -2,7 +2,7 @@
 
 <div align="center">
 
-  <h3><b>Hello Microver README </b></h3>
+  <h3><b>Hello Microverse README </b></h3>
 
 </div>
 
